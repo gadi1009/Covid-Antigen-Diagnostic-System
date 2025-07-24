@@ -53,3 +53,5 @@ The final integrated system is highly accurate and robust. The classifier's perf
 * **/stage2_classification:** Contains the Jupyter Notebook and details for the Swin Transformer classification model.
 
 <img width="2400" height="1200" alt="results" src="https://github.com/user-attachments/assets/2427377e-ac8b-4b44-b2bf-8fca1ff8c9b2" />
+<img width="3000" height="2250" alt="confusion_matrix" src="https://github.com/user-attachments/assets/6e1c7aef-acf7-43f9-b8f8-6df72d7ce1c9" />
+![val_batch2_pred](https://github.com/user-attachments/assets/1a8d63d3-6447-46cf-91f2-96473b9dfc32)
