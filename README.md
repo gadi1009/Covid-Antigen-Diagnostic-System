@@ -51,3 +51,5 @@ The final integrated system is highly accurate and robust. The classifier's perf
 
 * **/stage1_object_detection:** Contains the Jupyter Notebook and details for the YOLO object detection model.
 * **/stage2_classification:** Contains the Jupyter Notebook and details for the Swin Transformer classification model.
+
+<img width="2400" height="1200" alt="results" src="https://github.com/user-attachments/assets/2427377e-ac8b-4b44-b2bf-8fca1ff8c9b2" />
